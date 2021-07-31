@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TravisDurden
+- 👀 I’m interested in AI, mobile and web development
+- 🌱 I’m currently learning React and Serverless
